@@ -11,8 +11,8 @@ Le due espressioni separate dal simbolo di uguale ($=$) si chiamano **membri del
 * **Secondo membro**: l'espressione a destra dell'uguale.
 
 >[!example] Esempio 1
-$$3x + 5 = 11$$
-In questa equazione:
+>$$3x + 5 = 11$$
+>In questa equazione:
 >* La variabile (o incognita) è $x$.
 >* Il primo membro è $3x + 5$.
 >* Il secondo membro è $11$.
@@ -21,7 +21,7 @@ L'obiettivo è trovare quale valore numerico, sostituito alla *x*, rende vera l'
 
 >[!example] Esempio 2
 >$$x^2 - 4 = x + 2$$
-Questa è un'altra equazione. Le espressioni ai due lati dell'uguale sono più complesse, ma il concetto di base non cambia.
+>Questa è un'altra equazione. Le espressioni ai due lati dell'uguale sono più complesse, ma il concetto di base non cambia.
 
 > [!info] **In sintesi**: Un'equazione è una domanda. Ci chiede per quali valori delle incognite l'uguaglianza è soddisfatta.
 
@@ -36,12 +36,12 @@ Risolvere un'equazione significa trovare **tutte** le sue soluzioni. L'insieme d
 ### Come si fa: Verificare se un numero è una soluzione.
 
 >[!example] Esempio 1 (continuazione)
-Consideriamo l'equazione $$3x + 5 = 11$$
-Proviamo a vedere se $x = 2$ è una soluzione. Sostituiamo il valore 2 al posto della *x*:
-$$3(2) + 5 = 11$$
-$$6 + 5 = 11$$
-$$11 = 11$$
-L'uguaglianza è **vera**. Quindi, $x = 2$ è una soluzione dell'equazione.
+>Consideriamo l'equazione $$3x + 5 = 11$$
+>Proviamo a vedere se $x = 2$ è una soluzione. Sostituiamo il valore 2 al posto della *x*:
+>$$3(2) + 5 = 11$$
+>$$6 + 5 = 11$$
+>$$11 = 11$$
+>L'uguaglianza è **vera**. Quindi, $x = 2$ è una soluzione dell'equazione.
 > E se provassimo con $x = 3$?
 >$$3(3) + 5 = 11$$
 >$$9 + 5 = 11$$
@@ -49,8 +49,8 @@ L'uguaglianza è **vera**. Quindi, $x = 2$ è una soluzione dell'equazione.
 >Questa uguaglianza è **falsa**. Quindi, $x = 3$ non è una soluzione.
 
 >[!example] Esempio 2 (continuazione)
-Consideriamo l'equazione $$x^2 - 4 = x + 2$$
-Proviamo a vedere se $x = 3$ è una soluzione. Sostituiamo
+>Consideriamo l'equazione $$x^2 - 4 = x + 2$$
+>Proviamo a vedere se $x = 3$ è una soluzione. Sostituiamo
 >* Primo membro: $$(3)^2 - 4 = 9 - 4 = 5$$
 >* Secondo membro: $$3 + 2 = 5$$
 >Poiché $5 = 5$, l'uguaglianza è **vera**. Quindi, $x = 3$ è una soluzione.
