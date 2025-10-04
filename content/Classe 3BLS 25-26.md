@@ -7,4 +7,5 @@ Argomenti svolti:
 - Segno del prodotto
 - Segno del trinomio di secondo grado
 
+
 ![[3BLS 25-26.excalidraw.svg]]
