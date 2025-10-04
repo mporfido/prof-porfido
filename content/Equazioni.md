@@ -23,7 +23,8 @@ L'obiettivo è trovare quale valore numerico, sostituito alla *x*, rende vera l'
 >$$x^2 - 4 = x + 2$$
 >Questa è un'altra equazione. Le espressioni ai due lati dell'uguale sono più complesse, ma il concetto di base non cambia.
 
-> [!info] **In sintesi**: Un'equazione è una domanda. Ci chiede per quali valori delle incognite l'uguaglianza è soddisfatta.
+> [!info] **In sintesi**
+> Un'equazione è una domanda. Ci chiede per quali valori delle incognite l'uguaglianza è soddisfatta.
 
 ---
 
